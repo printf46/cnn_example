@@ -12,5 +12,7 @@ See comments in NaturalSceneClassification class for Tensor sizes produced when 
 
 Note that Pytorch equates kernel_size with filter_size as can be seen here https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html
 
+TODO: the validation accuracy is around 0.8, consider techniques to improve this. 
+
 Overview of how the original CNN code works is here https://medium.com/thecyphy/train-cnn-model-with-pytorch-21dafb918f48 
 
